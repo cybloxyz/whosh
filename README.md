@@ -28,6 +28,17 @@ apart from its cuteness cyber wearables fashion thingie here is few things you N
 
 don't ask me now, this thing is unborn yet (uh what did i say) jk
 
+whatever, maybe i should sorry for make this a bit too unformal, no why it must be formal? i will try to be formal next time but not now
+![whosh](pics/schema.webp)
+
+as you could see, how simple this little hardware, everything is really tidy and breakout board on pcb, yes because it is v1 doofus don't expect something more than working prototype (god i hope it works)
+
+for the main controller it is not limited to what kind of controller, i mean you could use 2 option, since the pinout is the same CMIIW, i mean (again) you could use either esp32c3 and esp32s3 as long as it is espressif and super mini version, the different thing is the battery, if you want to use esp32c3 then you shoul connect the battery to 5v pin and tp4056 to make it chargeable since they don't support builtin battery management.
+
+what makes it hear you? as you could see, i use INMP441 so it has ears! to hear you ofcourse, and i use amplifier max98357a so it could talks back to you! just don't make it has a bad personal and whispering fraud, i will not let it happen!
+
+![whosh](pics/pcb.webp)
+
 so basically it works as a companion and i know how lonely you are, trust me you are so lonely that is why you need to get one! apart from being lonely, you might feel so bored all the time, and this thingie will never let you bored and maybe it could give you friend? because in future i will make an app! and you'll find another WHOSH user! and maybe you'll become less lonely!!
 
 ## bill of material
